@@ -1,0 +1,16 @@
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni.exe
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni.pdb
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\QueensUni.Properties.Resources.resources
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\QueensUni.exe
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\QueensUni.pdb
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\QueensUni.MainMenu.resources
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\QueensUni.StudentDetails.resources
+F:\My_VS_Project\QueensUni\QueensUni\obj\x86\Debug\QueensUni.StudentRegistration.resources
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni.exe.config
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni_DAL.dll
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni_Domain.dll
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni_DAL.pdb
+F:\My_VS_Project\QueensUni\QueensUni\bin\Debug\QueensUni_Domain.pdb

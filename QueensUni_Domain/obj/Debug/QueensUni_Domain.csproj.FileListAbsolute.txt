@@ -1,0 +1,5 @@
+F:\My_VS_Project\QueensUni\QueensUni_Domain\bin\Debug\QueensUni_Domain.dll
+F:\My_VS_Project\QueensUni\QueensUni_Domain\bin\Debug\QueensUni_Domain.pdb
+F:\My_VS_Project\QueensUni\QueensUni_Domain\obj\Debug\ResolveAssemblyReference.cache
+F:\My_VS_Project\QueensUni\QueensUni_Domain\obj\Debug\QueensUni_Domain.dll
+F:\My_VS_Project\QueensUni\QueensUni_Domain\obj\Debug\QueensUni_Domain.pdb

@@ -1,0 +1,7 @@
+F:\My_VS_Project\QueensUni\QueensUni_DAL\bin\Debug\QueensUni_DAL.dll
+F:\My_VS_Project\QueensUni\QueensUni_DAL\bin\Debug\QueensUni_DAL.pdb
+F:\My_VS_Project\QueensUni\QueensUni_DAL\obj\Debug\ResolveAssemblyReference.cache
+F:\My_VS_Project\QueensUni\QueensUni_DAL\obj\Debug\QueensUni_DAL.dll
+F:\My_VS_Project\QueensUni\QueensUni_DAL\obj\Debug\QueensUni_DAL.pdb
+F:\My_VS_Project\QueensUni\QueensUni_DAL\bin\Debug\QueensUni_Domain.dll
+F:\My_VS_Project\QueensUni\QueensUni_DAL\bin\Debug\QueensUni_Domain.pdb
